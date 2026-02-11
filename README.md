@@ -6,7 +6,7 @@ A **React + Vite** project for managing technical support tickets efficiently. T
 
 Check out the live demo: [Demo Link](https://drive.google.com/file/d/1kyz0u2_Dl0zyEtMn9t50fA9kw_oDiDWS/view?usp=sharing)  
 
-![Dashboard Screenshot](../Tickets-Dashboard/assets/tickets.jpg)
+![Dashboard Screenshot](./public/assets/tickets.jpg)
 
 ---
 
